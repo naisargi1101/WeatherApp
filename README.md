@@ -18,7 +18,8 @@ Get data/weather : Gets the longitude and latitude of the cities entered.
 Get data/forecast: Gets the details of weather in those cities.
 
 # Output
-![alt output][https://github.com/naisargi1101/WeatherApp/blob/main/output.png?raw=true]
+![output](https://github.com/naisargi1101/WeatherApp/assets/61086786/49d3f6c7-f8b3-4e1c-9aef-0498a3e6fbe5)
+
 
 # Technology
 visual studio code, django, requests
